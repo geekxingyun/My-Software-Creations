@@ -1,0 +1,10 @@
+C:\Users\fairy\Documents\Visual Studio 2017\Projects\CaseConversionTool\CaseConversionTool\bin\Debug\CaseConversionTool.exe.config
+C:\Users\fairy\Documents\Visual Studio 2017\Projects\CaseConversionTool\CaseConversionTool\bin\Debug\CaseConversionTool.exe
+C:\Users\fairy\Documents\Visual Studio 2017\Projects\CaseConversionTool\CaseConversionTool\bin\Debug\CaseConversionTool.pdb
+C:\Users\fairy\Documents\Visual Studio 2017\Projects\CaseConversionTool\CaseConversionTool\obj\Debug\CaseConversionTool.csprojResolveAssemblyReference.cache
+C:\Users\fairy\Documents\Visual Studio 2017\Projects\CaseConversionTool\CaseConversionTool\obj\Debug\CaseConversionTool.Form1.resources
+C:\Users\fairy\Documents\Visual Studio 2017\Projects\CaseConversionTool\CaseConversionTool\obj\Debug\CaseConversionTool.Properties.Resources.resources
+C:\Users\fairy\Documents\Visual Studio 2017\Projects\CaseConversionTool\CaseConversionTool\obj\Debug\CaseConversionTool.csproj.GenerateResource.Cache
+C:\Users\fairy\Documents\Visual Studio 2017\Projects\CaseConversionTool\CaseConversionTool\obj\Debug\CaseConversionTool.csproj.CoreCompileInputs.cache
+C:\Users\fairy\Documents\Visual Studio 2017\Projects\CaseConversionTool\CaseConversionTool\obj\Debug\CaseConversionTool.exe
+C:\Users\fairy\Documents\Visual Studio 2017\Projects\CaseConversionTool\CaseConversionTool\obj\Debug\CaseConversionTool.pdb
